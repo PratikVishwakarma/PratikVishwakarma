@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PratikVishwakarma currently an employee of TCS with 4+ years of experience 
-- 👀 I’m interested in learning new languages (React js + native, flutter, web3) and explore more in Android
+- 👋 Hi, I’m @PratikVishwakarma currently working with Jio(On Site) with 5+ years of experience 
+- 👀 I’m interested in learning new languages (Hybrid mobile development, web3) and explore more in Android
 - 🌱 I’m currently learning more about Android + kotlin and other languages too
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via mail: pratikvishwarakma00@gmail.com or can message me on LinkedIn: https://www.linkedin.com/in/pratikvishwakarma/
